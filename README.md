@@ -9,7 +9,7 @@ Mac 用户对 Alfred 都不陌生，如果不知道的，建议到 [官方网址
 Workflows
 -------------
 
-### [Youdao Translate](Workflows/Youdao Translate.alfredworkflow) [(Download)](https://raw.github.com/lwr/AlfredWorkflows/master/Github.alfredworkflow)
+### [Youdao Translate](Workflows/Youdao Translate.alfredworkflow) [(Download)](https://raw.github.com/lwr/AlfredWorkflows/master/Workflows/Youdao Translate.alfredworkflow)
 by [@Aether](http://aetherwu.com)
 
 使用有道词典快速查找中英文单词，并可以直接回车从浏览器中查看详细结果
