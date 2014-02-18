@@ -53,7 +53,7 @@ Links
 -------
 * [Alfred 官方网址][官方网址]
 * [开发者使用的 Workflow][willfarrell]
-* [87年的脚本](http://loveb.in/?s=alfred]) - [失效的连接](http://v2ex.me/alfred-workflow-share])
+* [87年的脚本](http://loveb.in/?s=alfred) - [失效的连接](http://v2ex.me/alfred-workflow-share)
 * [AlfredWorkflow.com](http://www.alfredworkflow.com/) - [Github](https://github.com/hzlzh/AlfredWorkflow.com)
 
 [官方网址]:    http://alfredapp.com "Alfred 官方网址"
