@@ -1,4 +1,4 @@
-Alfred 2 的 Workflows 分享
+Alfred 2 的 Workflows
 =====================
 
 Mac 用户对 Alfred 都不陌生，如果不知道的，建议到 [官方网址] 进行了解
@@ -8,6 +8,24 @@ Mac 用户对 Alfred 都不陌生，如果不知道的，建议到 [官方网址
 
 Workflows
 -------------
+
+### [GoAgentX](Workflows/GoAgentX.alfredworkflow) [(Download)](https://raw.github.com/lwr/AlfredWorkflows/master/Workflows/GoAgentX.alfredworkflow)
+
+Fast proxy mode switch for [GoAgentX](https://github.com/ohdarling/GoAgentX)
+
+使用说明
+
+* 输入 `gx` 或 `gax` 关键字触发进入
+* 输入 `gxp`， `gxg`， `gxs` 或 `gaxp`， `gaxg`， `gaxs`  
+  然后回车可以直接切换到【PAC】,【全局】,【独立】模式
+
+TODO
+
+* 关键字输入后能立刻查询到当前的代理状态
+
+**Commands Included:** `gx`, `gax`
+
+![alt text](https://raw.github.com/lwr/AlfredWorkflows/master/Screenshots/GoAgentX.png)
 
 ### [Youdao Translate](Workflows/Youdao Translate.alfredworkflow) [(Download)](https://raw.github.com/lwr/AlfredWorkflows/master/Workflows/Youdao Translate.alfredworkflow)
 by [@Aether](http://aetherwu.com)
