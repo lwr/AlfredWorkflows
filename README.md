@@ -27,6 +27,20 @@ TODO
 
 ![alt text](https://raw.github.com/lwr/AlfredWorkflows/master/Screenshots/GoAgentX.png)
 
+### 节奏大师新版计算器 - [Download](https://raw.github.com/lwr/AlfredWorkflows/master/Workflows/RhythmMaster.alfredworkflow)
+
+纯属娱乐，就不多说明了，直接看后面的截图吧
+
+* 输入 `rm <combo 数量>` 触发
+
+TODO
+
+* 输入歌名和难度比如 4KH 直接查询
+
+**Commands Included:** `rm`
+
+![alt text](https://raw.github.com/lwr/AlfredWorkflows/master/Screenshots/RhythmMaster.png)
+
 ### Youdao Translate - [Download](https://raw.github.com/lwr/AlfredWorkflows/master/Workflows/Youdao Translate.alfredworkflow)
 by [@Aether](http://aetherwu.com)
 
